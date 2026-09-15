@@ -1,0 +1,6 @@
+Cybersecurity CLI Report
+User: Niall
+Host: codespaces-6229f5
+Directory: /workspaces/scripting-for-cybersecurity
+Python: /home/codespace/.python/current/bin/python3
+Python filenames found:  6
