@@ -1,0 +1,8 @@
+2c2
+old config< port=80
+---
+new config> port=443
+4c4
+old config< timeout=30
+---
+new config> timeout=60
